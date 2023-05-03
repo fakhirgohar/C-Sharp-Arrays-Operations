@@ -1,0 +1,15 @@
+E:\Other\C#\ArrayOpertions\ArrayOpertions\bin\Debug\net6.0\ArrayOpertions.exe
+E:\Other\C#\ArrayOpertions\ArrayOpertions\bin\Debug\net6.0\ArrayOpertions.deps.json
+E:\Other\C#\ArrayOpertions\ArrayOpertions\bin\Debug\net6.0\ArrayOpertions.runtimeconfig.json
+E:\Other\C#\ArrayOpertions\ArrayOpertions\bin\Debug\net6.0\ArrayOpertions.dll
+E:\Other\C#\ArrayOpertions\ArrayOpertions\bin\Debug\net6.0\ArrayOpertions.pdb
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.csproj.AssemblyReference.cache
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.AssemblyInfoInputs.cache
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.AssemblyInfo.cs
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.csproj.CoreCompileInputs.cache
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.dll
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\refint\ArrayOpertions.dll
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.pdb
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ArrayOpertions.genruntimeconfig.cache
+E:\Other\C#\ArrayOpertions\ArrayOpertions\obj\Debug\net6.0\ref\ArrayOpertions.dll
